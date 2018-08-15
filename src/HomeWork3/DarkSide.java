@@ -42,8 +42,8 @@ public class DarkSide {
         darkOrcs.add(new UndeadZombie());
         darkOrcs.add(new UndeadZombie());
 
-        List<Hero> darkSide = new ArrayList<>();
-        darkSide.add(personOrcs);
-        darkSide.add(personUndead);
+//        List<Hero> darkSide = new ArrayList<>();
+//        darkSide.add(personOrcs);
+//        darkSide.add(personUndead);
     }
 }

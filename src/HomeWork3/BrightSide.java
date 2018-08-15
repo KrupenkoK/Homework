@@ -13,16 +13,17 @@ import java.util.Random;
 
 public class BrightSide {
 
-    ElfWarrior eWarrior = new ElfWarrior();
-    ElfWizard eWizard = new ElfWizard();
-    ElfArcher eArcher = new ElfArcher();
+    public void dark() {
 
-    HumanWarrior hWarrior = new HumanWarrior();
-    HumanWizard hWizard = new HumanWizard();
-    HumanCrossbowman hCrossbowman = new HumanCrossbowman();
+        ElfWarrior eWarrior = new ElfWarrior();
+        ElfWizard eWizard = new ElfWizard();
+        ElfArcher eArcher = new ElfArcher();
 
-    Random randPerson = new Random();
+        HumanWarrior hWarrior = new HumanWarrior();
+        HumanWizard hWizard = new HumanWizard();
+        HumanCrossbowman hCrossbowman = new HumanCrossbowman();
 
+        Random randPerson = new Random();
 
         List<Hero> lightElfs = new ArrayList<>();
         lightElfs.add(new ElfWizard());
@@ -44,12 +45,13 @@ public class BrightSide {
         lightHumans.add(new HumanWarrior());
         lightHumans.add(new HumanWarrior());
 
-    Hero personElfs = lightElfs.get(randPerson.nextInt(lightElfs.size()));
-    Hero personHumans = lightHumans.get(randPerson.nextInt(lightHumans.size()));
-
-        List<Hero> lightSide = new ArrayList<>();
-        lightSide.add(personElfs);
-        lightSide.add(personHumans);
-
-    Hero lightToStartGame = lightSide.get(randPerson.nextInt(lightSide.size()));
+//        Hero personElfs = lightElfs.get(randPerson.nextInt(lightElfs.size()));
+//        Hero personHumans = lightHumans.get(randPerson.nextInt(lightHumans.size()));
+//
+//        List<Hero> lightSide = new ArrayList<>();
+//        lightSide.add(personElfs);
+//        lightSide.add(personHumans);
+//
+//        Hero lightToStartGame = lightSide.get(randPerson.nextInt(lightSide.size()));
+    }
 }
