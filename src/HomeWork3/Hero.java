@@ -2,30 +2,44 @@ package HomeWork3;
 
 public abstract class Hero {
 
-    private int health = 100;
+    public double health = 100;
     private boolean isBuffed;
+    private String name = "person";
     private Race race;
+
 
     public Hero(boolean isBuffed, Race race) {
         this.isBuffed = isBuffed;
         this.race = race;
     }
 
-    public int getHealth() {
+    public String setName(String name) {
+        this.name = name;
+        return name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public double getHealth() {
         return health;
     }
 
-    public void setHealth(int health) {
+    public double setHealth(double health) {
         this.health = health;
+        return health;
     }
 
     public boolean isBuffed() {
         return isBuffed;
     }
 
-    public void setBuffed(boolean buffed) {
+    public boolean setBuffed(boolean buffed) {
         isBuffed = buffed;
+        return buffed;
     }
+
 
     public boolean isAlive() {
         return health > 0;

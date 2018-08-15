@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b35f267f-1c3c-4f49-960d-f4db672613de" name="Default" comment="3">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork12/NumbValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork12/PhoneNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/Ability/BlackMagicSpells.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/BrightSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork3/DarkSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork4/Operationsmain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/MagicDamageSpells.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Ability/MagicDamageSpells.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/MagicSupportSpells.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Ability/MagicSupportSpells.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/MeleeAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Ability/MeleeAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/ShootAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Ability/ShootAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfArcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfArcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWarrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWarrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanCrossbowman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanCrossbowman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWarrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWarrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/MailTheLegendaryBattle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/MailTheLegendaryBattle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcArcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcArcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcGoblin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcGoblin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcShaman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcShaman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/StandardClasses/Mag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/StandardClasses/Shooter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/StandardClasses/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadHunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadHunter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadNecromancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadNecromancer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadZombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadZombie.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="E:\TestProject\HomeWork\.idea\shelf/" />
+    <ignored path="F:\HomeWork\.idea\shelf/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2030517273">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="392" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="392" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5360" />
+          <entry key="PLAIN_TEXT" value="56" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="55" />
+          <entry key="java" value="5360" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork3/MailTheLegendaryBattle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork3/BrightSide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="37" column="43" lean-forward="true" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork4/Operationsmain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork3/Humans/HumanWarrior.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork3/DarkSide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="KrupenkoK" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="HomeWork" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/OverlayImprovement.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/MAttack.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/HealthHero.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/HealthHero.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/SimpleAttack.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Blade.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Bow.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Crossbow.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Cudgel.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Debuff.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Buff.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Magic.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Spear.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Sword.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Attenuation.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/Ailment.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/DistributionOfAbilities.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/DistributionOfAbilities.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Race.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/MagicDebuffSpells.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/MagicCurseSpells.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/MagicDamageSpells.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/ShootAttack.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/StandardClasses/DarkMag.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/StandardClasses/Shooter.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/BlackMagicSpells.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/StandardClasses/Mag.java" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa6872.4902/Collections.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork4/Operationsmain.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork4/Collections.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork4/Operations.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/StandardClasses/Warrior.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/MeleeAttack.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Hero.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWarrior.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfArcher.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Ability/MagicSupportSpells.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWizard.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWarrior.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Humans/HumanCrossbowman.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWizard.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcGoblin.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcArcher.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcShaman.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadZombie.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadHunter.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadNecromancer.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/MailTheLegendaryBattle.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/BrightSide.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork3/DarkSide.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="82" />
+    <option name="y" value="39" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork3" type="462c0819:PsiDirectoryNode" />
+              <item name="Elfs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork3" type="462c0819:PsiDirectoryNode" />
+              <item name="Humans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;repository&#10;directory" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534274761611" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="HomeWork3.Ability" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Operationsmain">
+    <configuration name="MailTheLegendaryBattle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork3.MailTheLegendaryBattle" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumbValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork12.NumbValid" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operationsmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork4.Operationsmain" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapesMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork2.ShapesMain" />
+      <module name="HomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ShapesMain (1)" />
+      <item itemvalue="Application.NumbValid" />
+      <item itemvalue="Application.MailTheLegendaryBattle" />
+      <item itemvalue="Application.Operationsmain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Operationsmain" />
+        <item itemvalue="Application.MailTheLegendaryBattle" />
+        <item itemvalue="Application.ShapesMain (1)" />
+        <item itemvalue="Application.NumbValid" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b35f267f-1c3c-4f49-960d-f4db672613de" name="Default" comment="" />
+      <created>1532115618235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532115618235</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1532268778196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532268778197</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1532269245783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1532269245783</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3">
+      <created>1533668054632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1533668054632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="340" y="95" width="1399" height="1004" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22255415" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.32719395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32394367" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.4989339" weight="0.3261105" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.32719395" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HomeWork2/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/jdk/internal/math/FloatingDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="542" selection-start-line="542" selection-end-line="542" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork12/NumbValid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork12/PhoneNumberValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork2/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/FamilyOop/src/com/vgradilenko/hero/qualification/Warrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/FamilyOop/src/com/vgradilenko/hero/elf/ElfWarrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/FamilyOop/src/com/vgradilenko/hero/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/StandardClasses/DarkMag.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/StandardClasses/Shooter.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWork2/ShapesMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6872.3927/SetOperations.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6872.4700/main.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6872.4902/Collections.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWork2/AbstractShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Race.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6872.39757/Collections.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1920.8955/SetOperations.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1920.8669/SetOperations.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa1920.10404/Collections.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6712.9018/SetClass.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa6712.13700/Base.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWork4/Operations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork4/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/StandardClasses/Warrior.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/StandardClasses/Mag.java" />
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Ability/BlackMagicSpells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Ability/MagicDamageSpells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Ability/MagicSupportSpells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Ability/ShootAttack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Orcs/OrcGoblin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Orcs/OrcArcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadZombie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Humans/HumanWizard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Orcs/OrcShaman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="131" selection-start-line="21" selection-start-column="131" selection-end-line="21" selection-end-column="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadHunter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadNecromancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Humans/HumanCrossbowman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Ability/MeleeAttack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWarrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWizard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Elfs/ElfArcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork11/MathematicalSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/MailTheLegendaryBattle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/Humans/HumanWarrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/DarkSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork4/Operationsmain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork3/BrightSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="37" column="43" lean-forward="true" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HomeWork</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
