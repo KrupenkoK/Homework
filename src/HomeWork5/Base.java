@@ -29,6 +29,12 @@ public class Base {
 
     private static void testStringBuilderPerformance() {
 
+
+
+
+
+
+
         long beginTime = System.currentTimeMillis();
 
         StringBuilder b = new StringBuilder();
