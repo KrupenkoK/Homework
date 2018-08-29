@@ -6,7 +6,6 @@ public class Base {
 
     private static final int CONCAT_CYCLES = 100000;
     static Random random = new Random();
-//    public static String randomStr = Integer.toString(random.nextInt());
 
     public static void main(String[] args) {
         testStringPerformance();
