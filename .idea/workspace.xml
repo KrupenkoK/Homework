@@ -1,78 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1010d61a-278e-4d7c-ba2d-d5f4117018b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Game/NamesOfHeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork12/NumbValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork12/PhoneNumberValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/unnamed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/unnamed/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1010d61a-278e-4d7c-ba2d-d5f4117018b2" name="Default Changelist" comment="Add names of heroes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork11/MathematicalSolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork12/NumbValid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork12/PhoneNumberValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork2/AbstractShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork2/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork2/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork2/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork2/ShapesMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork2/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork2/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Ability/BlackMagicSpells.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Ability/MagicDamageSpells.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Ability/MagicSupportSpells.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Ability/MeleeAttack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Ability/ShootAttack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/BrightSide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/DarkSide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Elfs/ElfArcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Elfs/ElfWarrior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Elfs/ElfWizard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Humans/HumanCrossbowman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Humans/HumanWarrior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Humans/HumanWizard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/MailTheLegendaryBattle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Orcs/OrcArcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Orcs/OrcGoblin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Orcs/OrcShaman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Race.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Undeads/UndeadHunter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Undeads/UndeadNecromancer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork3/Undeads/UndeadZombie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork4/Collections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork4/Operations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork4/Operationsmain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/HomeWork5/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/BlackMagicSpells.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Ability/BlackMagicSpells.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/MagicDamageSpells.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Ability/MagicDamageSpells.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/MagicSupportSpells.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Ability/MagicSupportSpells.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/MeleeAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Ability/MeleeAttack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Ability/ShootAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Ability/ShootAttack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/BrightSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/BrightSide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/DarkSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/DarkSide.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfArcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Elfs/ElfArcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWarrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Elfs/ElfWarrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Elfs/ElfWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Elfs/ElfWizard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanCrossbowman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Humans/HumanCrossbowman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWarrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Humans/HumanWarrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Humans/HumanWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Humans/HumanWizard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/MailTheLegendaryBattle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/MailTheLegendaryBattle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcArcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Orcs/OrcArcher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcGoblin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Orcs/OrcGoblin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Orcs/OrcShaman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Orcs/OrcShaman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadHunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Undeads/UndeadHunter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadNecromancer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Undeads/UndeadNecromancer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork3/Undeads/UndeadZombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game/Undeads/UndeadZombie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork5/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork5/Base.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,24 +23,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="51" />
+          <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="51" />
+          <entry key="PLAIN_TEXT" value="24" />
         </counts>
       </usages-collector>
     </session>
@@ -149,6 +81,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Game/BrightSide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Game/NamesOfHeroes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -224,13 +165,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Game" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Game" type="462c0819:PsiDirectoryNode" />
-              <item name="Undeads" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -241,7 +175,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535529102616" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535529272405" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -271,6 +205,14 @@
       <option name="presentableId" value="Default" />
       <updated>1535436736549</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add names of heroes">
+      <created>1535529082465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535529082465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -284,15 +226,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -300,12 +242,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32866043" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24397163" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24397163" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32866043" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966443" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -316,14 +258,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add names of heroes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add names of heroes" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Game/BrightSide.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Game/DarkSide.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -441,6 +380,13 @@
             <element signature="e#1034#1035#0" expanded="true" />
             <element signature="e#1100#1101#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/BrightSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
